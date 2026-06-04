@@ -1,77 +1,125 @@
- Hi, I'm Martin Baraka
+# Hi there, I'm Martin Baraka
 
-Full-Stack Developer | UI/UX Designer | Software Enthusiast
+## Full-Stack Developer | UI/UX Designer | Software Engineer
 
-I am a passionate software developer focused on building modern, scalable, and user-friendly web applications. I enjoy transforming ideas into functional digital solutions using modern technologies and clean design principles.
-
-About Me
-
-- Full-Stack Web Developer
-- UI/UX Design Enthusiast
-- Continuously learning new technologies
-- Interested in Web and Mobile Application Development
-- Open to collaboration on innovative projects
-- Passionate about solving real-world problems through technology
+Welcome to my GitHub profile! I'm a passionate software developer focused on building modern, scalable, and user-friendly applications. I enjoy solving real-world problems through technology and creating impactful digital experiences.
 
 ---
 
- Tech Stack
+##  About Me
 
-Frontend
-- React.js
-- Next.js
-- JavaScript (ES6+)
-- TypeScript
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
-
- Backend
-- Node.js
-- Express.js
-- REST APIs
-
- Database
-- MongoDB
-- MySQL
-- PostgreSQL
-
- Design & Tools
-- Figma
-- Git & GitHub
-- VS Code
-- Vercel
+* Full-Stack Developer
+* UI/UX Designer
+* Lifelong Learner and Technology Enthusiast
+* Interested in Web and Mobile Application Development
+* Open to internships, freelance opportunities, and collaborations
+* Passionate about innovation, problem-solving, and continuous improvement
 
 ---
 
-Featured Projects
+## 🛠️Tech Stack
 
-   AgroConnect
-A platform connecting farmers and distributors to streamline agricultural supply chains and improve market access.
+### Frontend
 
-   Management Systems
-Development of management systems including dashboards, reporting tools, and data-driven applications.
+* React.js
+* Next.js
+* JavaScript (ES6+)
+* TypeScript
+* HTML5
+* CSS3
+* Tailwind CSS
+* Bootstrap
 
- UI/UX Design Projects
-Creating user-centered interfaces that provide intuitive and engaging user experiences.
+### Backend
 
+* Node.js
+* Express.js
+* REST APIs
 
+### Databases
 
+* MongoDB
+* MySQL
+* PostgreSQL
 
-   Connect With Me
+### Design & Tools
 
-- Email: themartinbaraka@gmail.com
-- LinkedIn: https://www.linkedin.com/in/martin-baraka-ba1269335/
-- GitHub: https://github.com/martin-baraka/martin-baraka/
-- Portfolio: https://martin-baraka-portfolio.vercel.app/
+* Figma
+* Git & GitHub
+* VS Code
+* Vercel
+* Postman
 
 ---
 
- Let's Work Together
+##  Featured Projects
 
-Whether you have a project idea, freelance opportunity, internship, or collaboration proposal, feel free to reach out.
+###  AgroConnect
 
-> "Turning ideas into impactful digital experiences through code and design."
+A platform designed to connect farmers and distributors, improving communication, market access, and agricultural supply chain efficiency.
 
- If you like my work, consider following me and checking out my repositories.
+### Management Information Systems
+
+Developing secure and efficient systems for data management, reporting, and organizational decision-making.
+
+### UI/UX Design Projects
+
+Creating intuitive, accessible, and visually appealing user experiences that put users first.
+
+---
+
+##  Currently Learning
+
+* Advanced Full-Stack Development
+* System Design & Architecture
+* Cloud Computing
+* Mobile Application Development
+* Software Engineering Best Practices
+
+---
+
+## Portfolio
+
+🔗 Portfolio Website
+
+https://martin-baraka-portfolio.vercel.app/
+
+---
+
+##  Contact Me
+
+📧 Email: [themartinbaraka@gmail.com](mailto:themartinbaraka@gmail.com)
+
+💼 LinkedIn: https://www.linkedin.com/in/martin-baraka-ba1269335/
+
+🐙 GitHub: https://github.com/martin-baraka
+
+📱 Phone / WhatsApp: +254 796 074 030
+
+📍 Nairobi, Kenya
+
+---
+
+## 📈 GitHub Stats
+
+![Martin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=martin-baraka\&show_icons=true\&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martin-baraka\&layout=compact\&theme=github_dark)
+
+---
+
+##  Career Objective
+
+To leverage my technical skills, creativity, and passion for software development to build innovative solutions that solve real-world challenges while continuously growing as a developer and technology professional.
+
+---
+
+##  Favorite Quote
+
+> "Technology is best when it brings people together and creates opportunities for growth."
+
+---
+
+### Thank you for visiting my profile!
+
+If you find my projects interesting, feel free to ⭐ star a repository, follow my journey, or reach out for collaboration opportunities.
